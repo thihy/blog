@@ -1,0 +1,3 @@
+== Thihy Blog image:https://api.travis-ci.org/thihy/thihy-blog.svg[]
+
+Thihy's blog
