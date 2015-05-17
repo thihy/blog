@@ -1,7 +1,7 @@
 # jekyll configuration
 
-title: "Jekyll-asciidoc-quickstart"
-pygments: true
+title: "Thihy-blog"
+highlighter: true
 
 asciidoctor:
   attributes:
